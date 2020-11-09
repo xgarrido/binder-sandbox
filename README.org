@@ -1,0 +1,4 @@
+#+TITLE: M1 PFON Sandbox
+
+Ce dépôt contient une configuration minimale pour [[https://mybinder.org/][Binder]] pour le cours et les TD du module Python du
+Master 1 Physique Fondamentale de l'Université Paris-Saclay.
