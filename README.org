@@ -1,6 +1,6 @@
 #+TITLE: Jupyter notebook sandbox
 
-[[https://mybinder.org/v2/gh/xgarrido/binder-sandbox/HEAD)][https://mybinder.org/badge_logo.svg]]
+[[https://mybinder.org/v2/gh/xgarrido/binder-sandbox/HEAD][https://mybinder.org/badge_logo.svg]]
 
 Ce dépôt contient une configuration minimale de [[https://mybinder.org/][Binder]] pour le cours et les TD du module Python du
 Master 1 Physique Fondamentale de l'Université Paris-Saclay.
